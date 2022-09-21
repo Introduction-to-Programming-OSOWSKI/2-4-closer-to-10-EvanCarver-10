@@ -8,3 +8,5 @@ def close10(x, y):
     
     else:
         return "0"
+
+print(close10(5, 15))
