@@ -7,6 +7,6 @@ def close10(x, y):
         return y 
     
     else:
-        return "0"
+        return 0
 
 print(close10(5, 15))
